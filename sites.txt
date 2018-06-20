@@ -1,0 +1,7 @@
+.yahoo.com
+.adobe.com
+.uber.com
+.twitter.com
+.slack.com
+.ubnt.com
+.vk.com
